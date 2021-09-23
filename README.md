@@ -41,8 +41,9 @@ Get the response on browser
 
     1. open browser and enter api url as per below 
     2. "http://127.0.0.1:5000/weather?city=Boston&country=US&"
-    3. city and country are variables. Rest of the syntex is constant
-    4. Please, refer to ISO 3166 link below for the city codes or country codes.
+    3. city and country are variables. Rest of the syntex is constant. 
+        Examples = City: "New York", "Mumbai", "Salta" etc... Country: "us", "in", "ar" etc...
+    4. Please refer to ISO 3166 link below for the city codes or country codes.
 - [ISO 3166](https://www.iso.org/obp/ui/#search)
   
 ## Environment Variables
