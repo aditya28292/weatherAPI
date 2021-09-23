@@ -46,8 +46,8 @@ Get the response on postman
     5. city and country are variables. Rest of the syntex is constant. 
         Examples = City: "New York", "Mumbai", "Salta" etc... Country: "us", "in", "ar" etc...
         Please refer to ISO 3166 link below for the city codes or country codes.
-    4. Click on Send and check Body in response tab.
-    5. Select Pretty for better understanding of response. 
+    6. Click on Send and check Body in response tab.
+    7. Select Pretty for better understanding of response. 
    - [ISO 3166](https://www.iso.org/obp/ui/#search)
 
 Get the response on browser
