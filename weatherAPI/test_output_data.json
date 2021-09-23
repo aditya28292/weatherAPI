@@ -1,0 +1,22 @@
+{
+"cloudiness": "75%",
+"forecast": "haze",
+"geo_coordinates": [
+19.0144,
+72.8479
+],
+"headers": {
+"content-type": "application/json"
+},
+"humidity": "94%",
+"location_name": "Mumbai,IN",
+"pressure": "1006hpa",
+"requested_time": "2021-09-22 23:13:35",
+"sunrise": "00:57",
+"sunset": "13:05",
+"temperature": [
+"26.99C",
+"80.58F"
+],
+"wind": "2.06m/s"
+}
