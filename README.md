@@ -46,6 +46,13 @@ Get the response on browser
     4. Please refer to ISO 3166 link below for the city codes or country codes.
 - [ISO 3166](https://www.iso.org/obp/ui/#search)
   
+ Get the response on postman
+
+    1. Download Postman desktop client and open it.
+    2. Create New HTTP Request 
+    3. Select GET request and enter api urls as given above
+    4. Click on Send and check Body in response tab.
+    5. Select Pretty for better understanding of response. 
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to [ENV_VARIABLES] header of env_variable.ini file
